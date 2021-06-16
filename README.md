@@ -1,4 +1,4 @@
-lang
+lang = le lua C?!?!!!!!!!!!!!!!!!!!!!
 
 local name = "catgirl god"
 local yes = "'s the name"
