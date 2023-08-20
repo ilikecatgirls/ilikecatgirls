@@ -1,5 +1,3 @@
 ### Greetings 👋
-I love working with C, C#, JS, Lua, CSS, and HTML. I am still learning them.
-Currently working on nothing, just exploring possibilities with said languages, or try out other languages.
-
+I like computers. I like IT, Networking. I like C, JS and Lua. I am still learning them, and have a lot to.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilikecatgirls)](hi)
