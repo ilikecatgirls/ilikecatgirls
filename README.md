@@ -1,3 +1,3 @@
 ### Greetings 👋
-I like computers. I like IT, Networking. I like C, JS and Lua. I am still learning them, and have a lot to.
+I Love Computers and Networking. I love working with C, NodeJS, and Lua.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilikecatgirls)](hi)
